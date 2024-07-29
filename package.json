@@ -1,0 +1,44 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "My online portfolio built with React, Gatsby and the gatsby-theme-portfolio-minimal theme.",
+  "scripts": {
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "gatsby": "^5.0.1",
+    "gatsby-theme-portfolio-minimal": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-type-animation": "^3.2.0"
+  },
+  "author": "Clint Johnson",
+  "license": "MIT",
+  "starter-name": "gatsby-starter-portfolio-minimal-theme",
+  "homepage": "https://clintjohnson.live",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clintjohnsn/my-portfolio.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [
+    "react",
+    "gatsby",
+    "gatsby-theme",
+    "PWA",
+    "portfolio",
+    "showcase",
+    "minimal",
+    "animations",
+    "dark-mode",
+    "gdpr-compliant"
+  ]
+}

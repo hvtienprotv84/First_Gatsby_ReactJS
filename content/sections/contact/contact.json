@@ -1,0 +1,13 @@
+{
+  "name": "Huỳnh Vĩnh Tiến",
+  "email": "huynhvinhtien.84@gmail.com",
+  "description": "Xin Chào Bạn! Mọi Thắc Mắc Xin Liên Hệ Với Tôi. Xin Cám Ơn!",
+  "image": {
+    "src": "../../images/ma_qr.png",
+    "alt": "My Contact Photo"
+  },
+  "socialProfiles": {
+    "from": ["Facebook", "Github", "Mail"],
+    "showIcons": true
+  }
+}

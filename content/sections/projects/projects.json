@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "🧑‍💻 Data Structures and Algorithms",
+      "title": "Leetcode solutions in Python",
+      "description": "Regularly updated solutions to Leetcode problems in Python. Well-documented and easy to understand with time-space complexity analysis.",
+      "tags": ["Python", "Data Structures", "Algorithms"],
+      "image": {
+        "src": "../../images/tree.jpg",
+        "alt": "Quick Setup"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/clintjohnsn/ds-algo"
+        }
+      ]
+    },
+    {
+      "visible": false,
+      "category": "🧰 EXTENDABLE LAYOUT",
+      "title": "Add more sections!",
+      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
+      "tags": ["Custom Sections", "Easy-2-Use"],
+      "image": {
+        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "alt": "Extendable Layout",
+        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/clintjohnsn"
+  }
+}

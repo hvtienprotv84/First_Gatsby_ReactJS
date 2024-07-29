@@ -1,0 +1,66 @@
+{
+  "interests": [
+    {
+      "label": "HTML",
+      "image": {
+        "src": "../../images/html.png",
+        "alt": "HTML"
+      }
+    },
+    {
+      "label": "CSS",
+      "image": {
+        "src": "../../images/css.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "JavaScript",
+      "image": {
+        "src": "../../images/js.png",
+        "alt": "JavaScript"
+      }
+    },
+    {
+      "label": "TypeScript",
+      "image": {
+        "src": "../../images/typescript-logo.png",
+        "alt": "TypeScript"
+      }
+    },
+
+    {
+      "label": "ReactJS",
+      "image": {
+        "src": "../../images/react.png",
+        "alt": "Kubernetes"
+      }
+    },
+    {
+      "label": "Redux",
+      "image": {
+        "src": "../../images/redux.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "VueJS",
+      "image": {
+        "src": "../../images/vue.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Angular",
+      "image": {
+        "src": "../../images/angular.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Xem Thêm",
+    "initiallyShownInterests": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "intro": "  Xin Chào!",
+  "heroPhoto": {
+    "src": "../../images/hero.avif",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": " Tôi là Huỳnh Vĩnh Tiến.",
+  "subtitle": {
+    "prefix": "I build distributed systems that ",
+    "highlight": "scale",
+    "suffix": "."
+  },
+  "description": "Lorem ipsum odor amet, consectetuer adipiscing elit. Erat proin habitant, platea cras ex enim enim lobortis quisque. Ultricies consectetur adipiscing ut elit maecenas netus. Pellentesque curae fusce fusce mauris suspendisse quis euismod potenti. Hac aliquam nulla amet vestibulum interdum fusce tortor nulla. Consectetur ut lacus tortor fames dui lobortis. Duis vehicula convallis, conubia morbi a elementum ultrices purus ultricies non nullam consectetur posuere varius non nostra duis quam vivamus maecenas, ut lacus tortor fames dui lobortis. Duis vehicula convallis.",
+  "socialProfiles": {
+    "from": ["Facebook", "Github", "Mail"],
+    "showIcons": true
+  }
+}
